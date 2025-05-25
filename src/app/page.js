@@ -1,6 +1,6 @@
 "use client";
 import Navbar from "./components/Navbar";
-import Hero from "./sections/hero";
+import Hero from "./sections/Hero";
 import Logos from "./sections/Logos";
 import Introduction from "./sections/Introduction";
 import Features from "./sections/Features";
